@@ -1,5 +1,5 @@
-Ingredients
-avocado
-lemon
-salt
-Instructions
+Ingredients:
+  Avocado
+  Lemon
+  Salt
+Instructions:
